@@ -1,21 +1,22 @@
+layout: {zmk_keyboard: temper}
 layers:
   default:
   - - Q
     - W
-    - F
-    - P
-    - B
+    - E
+    - R
+    - T
     - J
     - L
     - U
     - Y
     - {t: '''', s: '"'}
-  - [A, R, S, T, G, M, N, E, I, O]
+  - [A, S, D, F, G, M, N, E, I, O]
   - - Z
     - X
     - C
-    - D
     - V
+    - B
     - K
     - H
     - {t: ',', s: ;}
