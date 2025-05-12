@@ -24,8 +24,8 @@ layers:
     - {t: '?', s: '!'}
   - - ⌘
     - num
-    - {t: ⇧, s: ⇪}
     - SPACE
+    - {t: ⇧, s: ⇪}
     - nav
     - {t: default, h: toggle}
   game:
