@@ -1,27 +1,27 @@
 layout: {zmk_keyboard: temper}
 layers:
   default:
-  - - Q
-    - W
-    - E
-    - R
-    - T
-    - J
-    - L
-    - U
-    - Y
-    - {t: '''', s: '"'}
-  - [A, S, D, F, G, M, N, E, I, O]
-  - - Z
-    - X
+  - - Y
     - C
-    - V
-    - B
+    - L
+    - M
     - K
-    - H
+    - X
+    - F
+    - U
     - {t: ',', s: ;}
-    - {t: ., s: ':'}
+    - {t: '''', s: '"'}
+  - [I, S, R, T, G, P, N, E, A, O]
+  - - Q
+    - V
+    - W
+    - D
+    - J
+    - B
+    - H
     - {t: '?', s: '!'}
+    - {t: ., s: ':'}
+    - X
   - - ⌘
     - num
     - SPACE
